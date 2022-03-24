@@ -1,9 +1,0 @@
-Algoritmo  suma
-	Definir a,b,c Como Real
-	Escribir "ingresa el primer numero"
-	leer a
-	Escribir "ingresa el segundo numero"
-	leer b
-	c<-a + b
-	escribir "la suma de los dos números es:" c
-FinAlgoritmo
